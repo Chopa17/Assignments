@@ -1,1 +1,10 @@
-# Assignments
+# Assignments (OOP in C++)
+Brief descriptions of the assignments (and the main programming concepts evaluated):       
+Assignment 1 - A program to calculate atomic transition energies (taking a valid user input)     
+Assignment 2 - A program reading a data file and computing the mean, std. deviation, std. error (reading a file)   
+Assignment 3 - A program to take user input course codes, store them and then print lists of courses (storing in a vector and sorting)   
+Assignment 4 - A program demonstrating a class for galaxies (classes)   
+Assignment 5 - A program demonstrating a class for complex numbers (operator overloading)   
+Assignment 6 - A program demonstrating a class for matrices (copy and move semantics)   
+Assignment 7 - A program demonstrating inheriting classes based around mathematical vectors (class inheritance)   
+Assignment 8 - A program demonstrating a class hierarchy for shapes (abstract classes and virtual functions)   
