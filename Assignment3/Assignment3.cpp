@@ -9,7 +9,7 @@
 //use standard namespace
 using namespace std;
 //declare function to print out each element of a vector,v
-void print_vector(const vector<string>& v) {
+void print_vector(const vector<string> &v) {
 	//use iterator to loop through vector
 	for (auto iterator = v.begin(); iterator != v.end(); iterator++) {
 		cout << *iterator << endl; //output string
