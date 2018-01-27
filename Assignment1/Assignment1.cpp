@@ -67,7 +67,7 @@ int main() {
 		while ((n_i == n_f) || (n_i < n_f)) {
 			if (n_i == n_f) {
 				cerr << "There is no transition!" << endl;
-			}else {
+			} else {
 				cerr << "n_i must be greater than n_f for a transition!" << endl;
 			}
 			//take new inputs
@@ -82,7 +82,7 @@ int main() {
 		store = char_validation("e/J", 'e', 'j');
 		if (store == 'e') {
 			cout << "The transition energy is " << fixed << setprecision(5) << energy << "eV" << endl; //output in eV
-		}else {
+		} else {
 			cout << "The transition energy is " << scientific << setprecision(5) << energy*eV << "J" << endl; //output in J
 		}
 		//ask whether the user wants to repeat
